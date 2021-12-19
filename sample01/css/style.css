@@ -1,0 +1,53 @@
+
+p{
+    font-size: 14px;
+}
+
+h1{
+    font-size: 24px;
+    margin: 0;
+}
+
+.content{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    margin: 10px auto;
+    border: 1px solid #d1d1d1;
+    padding: 30px;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid #d1d1d1;
+    font-size: 1.2em;
+    width: 100%;
+    padding: 8px;
+}
+
+button{
+    width: 100%;
+    background-color: #2096f3;
+    padding: 15px;
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px rgba(0,0,0,.5);
+}
+.requied{
+    background-color: #fee;
+    color: #F33;
+    padding: 3px;
+    font-size: .9em;
+    margin-left: 30px;
+}
+body{
+    background-color: #fafafa;
+}
+
+.ekkusu{
+margin-bottom: .5em;
+}
+
+ label{
+     display: block;
+ }
